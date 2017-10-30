@@ -6,7 +6,8 @@
 1. <a href='https://github.com/CodeSeven/toastr'>toastr</a>  简介：Simple javascript toast notifications
 
 ## NodeJs相关类库
-1. <a href='https://github.com/rvagg/through2'>through2</a> 简介：Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise,it's always used to write a Gulp plugin
+1. <a href='https://github.com/rvagg/through2'>through2</a> 简介：Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise,it's always used to write a Gulp plugin<br>
+2. <a href='https://github.com/tmpvar/jsdom'>jsdom</a> 简介：A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js<br>
 
 
 ## Gulp相关插件
