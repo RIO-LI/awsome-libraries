@@ -11,6 +11,9 @@
 3. <a href='https://github.com/medialize/URI.js' target='_blank'>URI.js</a>简介：URI.js offers simple, yet powerful ways of working with query string, has a number of URI-normalization functions and converts relative/absolute paths.(可用于浏览器)<br>
 
 
+## ECMAScript元编程相关类库
+1. <a href='https://github.com/rbuckton/reflect-metadata' target='_blank'>reflect-metadata</a> 简介：  <a href='https://rbuckton.github.io/reflect-metadata/' target='_blank'>Prototype for a Metadata Reflection API for ECMAScript</a>
+
 ## Gulp相关插件
 > Gulp官网：https://gulpjs.com/ <br>
 Gulp中文网： http://www.gulpjs.com.cn/ <br>
