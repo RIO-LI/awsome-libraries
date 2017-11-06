@@ -26,3 +26,4 @@ Gulp中文网： http://www.gulpjs.com.cn/ <br>
 
 1. <a href='https://github.com/gulpjs/vinyl-fs' target='_blank'>vinyl-fs</a> 简介：Gulp关于文件的抽象核心模块
 2. <a href='https://github.com/gulpjs/gulp-util' target='_blank'>gulp-util</a> 简介：Utilities for gulp plugins
+3. <a href='https://github.com/sun-zheng-an/gulp-shell' target='_blank'>gulp-shell</a> 简介：A handy command line interface for gulp
