@@ -9,6 +9,8 @@
 1. <a href='https://github.com/rvagg/through2' target='_blank'>through2</a> 简介：Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise,it's always used to write a Gulp plugin<br>
 2. <a href='https://github.com/tmpvar/jsdom' target='_blank'>jsdom</a> 简介：A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js<br>
 3. <a href='https://github.com/medialize/URI.js' target='_blank'>URI.js</a> 简介：URI.js offers simple, yet powerful ways of working with query string, has a number of URI-normalization functions and converts relative/absolute paths.(可用于浏览器)<br>
+4. <a href='https://github.com/remy/nodemon' target='_blank'>nodemon</a> 简介：Monitor for any changes in your node.js application and automatically restart the server - perfect for development。<a href="http://nodemon.io/" target='_blank'>http://nodemon.io/</a>
+
 
 ## 测试相关列库
 1. <a href='https://github.com/mochajs/mocha' target='_blank'>mocha</a> 简介：☕️ simple, flexible, fun javascript test framework for node.js & the browser <a href="https://mochajs.org" target='_blank'>https://mochajs.org</a>
